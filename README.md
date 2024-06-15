@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Phuwamet(Fame)
 
-- 🌱 I’m currently learning about Web App and Secrurity.
+- 🌱 I’m currently learning about Web App.
 
 <!--
 **FameNu/FameNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
