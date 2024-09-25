@@ -28,9 +28,6 @@ King Mongkut’s University of Technology Thonburi(KMUTT)
 ### Interesting and want learning more
 [![My Skills](https://skillicons.dev/icons?i=materialui,mongodb,opencv,cypress,jest&theme=light)](https://skillicons.dev)
 
-### Other, Hobby, and Free Time
-[![My Skills](https://skillicons.dev/icons?i=arduino,autocad,sketchup&theme=light)](https://skillicons.dev)
-
 <!--
 **FameNu/FameNu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
