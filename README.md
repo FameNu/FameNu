@@ -14,16 +14,13 @@ King Mongkut’s University of Technology Thonburi(KMUTT)
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,go,md,mysql,c,cpp,py&theme=light)](https://skillicons.dev)
 
 ### Framework
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,spring,vue,pinia,tailwind&theme=light)](https://skillicons.dev)
-
-### CLI (Command Line Interface) / Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express,react,vue,pinia,tailwind&theme=light)](https://skillicons.dev)
 
 ### Management
-[![My Skills](https://skillicons.dev/icons?i=github,notion,discord&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,nginx&theme=light)](https://skillicons.dev)
 
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma,notion,discord&theme=light)](https://skillicons.dev)
 
 ### Interesting and want learning more
 [![My Skills](https://skillicons.dev/icons?i=materialui,mongodb,opencv,cypress,jest&theme=light)](https://skillicons.dev)
